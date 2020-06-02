@@ -17,3 +17,6 @@ matplotlib : pip install
  WARNING: make sure to turn on GPU, which also enables multicore processing. It may take up to 45 minutes even with GPU enabled, otherwise it will take much longer.
 
 ![](images/Annotation%202020-06-01%20013318.png)
+
+#---------UPDATE PONG PPO-------------#
+In Pong PPO we use a clipper to enhance the performence
